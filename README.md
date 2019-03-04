@@ -1,0 +1,2 @@
+# School-Management-System-Project
+School Management System is a feature-rich, multilingual, complete school Content Management System (CMS). This school community portal provides state-of-the-art online interactive community and backend administration functions. The school intranet effectively brings the education stakeholders (management, administration, parents, teachers and students) together on a common interactive platform thereby fostering camaraderie among them and building a solid school community.
